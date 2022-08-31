@@ -6,3 +6,4 @@
 5-display current directory details
 6-script that creates directory in /tmp
 7-move a file
+8-delete betty
