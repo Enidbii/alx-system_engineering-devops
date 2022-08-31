@@ -8,3 +8,4 @@
 7-move a file
 8-delete betty
 9-delete directory
+10-cd to previous directory
