@@ -5,3 +5,4 @@
 4-ls hidden contents
 5-display current directory details
 6-script that creates directory in /tmp
+7-move a file
