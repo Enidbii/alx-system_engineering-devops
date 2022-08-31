@@ -11,3 +11,4 @@
 10-cd to previous directory
 11-list all files in a directory
 12-print the type of file
+13-creating a symbolic link
