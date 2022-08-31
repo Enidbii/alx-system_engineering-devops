@@ -9,3 +9,4 @@
 8-delete betty
 9-delete directory
 10-cd to previous directory
+11-list all files in a directory
