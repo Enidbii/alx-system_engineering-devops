@@ -11,3 +11,4 @@
 10-change mode to one of ollehs
 11-execute for subdirectories of current directory
 12-creation of dir mydir with permissions 751
+13- change group ownership
