@@ -10,3 +10,4 @@
 9-john doe-sets mode of the file 
 10-change mode to one of ollehs
 11-execute for subdirectories of current directory
+12-creation of dir mydir with permissions 751
