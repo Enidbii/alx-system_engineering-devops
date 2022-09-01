@@ -4,3 +4,4 @@
 3-changes file owners
 4-create an empty file
 5-execute script
+6-add execute permission to the owner and group owner and read to other users
