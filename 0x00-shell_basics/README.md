@@ -16,3 +16,4 @@
 15-mv uppercase
 16-deletes files that end with ~
 17-creates directories
+18-lists all files and directories
