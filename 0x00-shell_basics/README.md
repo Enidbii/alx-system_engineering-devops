@@ -15,3 +15,4 @@
 14-copy html files
 15-mv uppercase
 16-deletes files that end with ~
+17-creates directories
