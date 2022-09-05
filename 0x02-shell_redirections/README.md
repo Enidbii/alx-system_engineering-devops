@@ -14,3 +14,4 @@
 13-12 newest files
 14-takes input and prints words that appear once
 15-prints partern
+16-display the number of lines
