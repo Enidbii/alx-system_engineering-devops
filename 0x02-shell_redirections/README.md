@@ -17,3 +17,4 @@
 16-display the number of lines
 17-display lines containing the  pattern root
 18-display all the lines of a file
+19-A-Z
