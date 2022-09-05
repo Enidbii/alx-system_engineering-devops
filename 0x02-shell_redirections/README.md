@@ -13,3 +13,4 @@
 12-display 10 newest files in the current directory
 13-12 newest files
 14-takes input and prints words that appear once
+15-prints partern
