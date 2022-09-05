@@ -20,3 +20,4 @@
 19-A-Z
 20-removes letter c and C from input
 21-reverse its input
+22-display all users and directories sorted by order
