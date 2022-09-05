@@ -18,3 +18,4 @@
 17-display lines containing the  pattern root
 18-display all the lines of a file
 19-A-Z
+20-removes letter c and C from input
