@@ -8,3 +8,4 @@
 7-creates a file named exactly that
 8-save current state of directory
 9-duplicate last line
+10-no more js
