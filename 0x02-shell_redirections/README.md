@@ -5,4 +5,5 @@
 4-display 10 last lines of /etc/passwd
 5-display 10 first lines of /etc/passwd
 6-display the 3rd line of iacta
-7-creates a file named exactly that 
+7-creates a file named exactly that
+8-save current state of directory 
