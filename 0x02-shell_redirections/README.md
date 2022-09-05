@@ -10,3 +10,5 @@
 9-duplicate last line
 10-no more js
 11-count the number of directories
+12-display 10 newest files in the current directory
+13-12 newest files
