@@ -15,3 +15,4 @@
 14-takes input and prints words that appear once
 15-prints partern
 16-display the number of lines
+17-display lines containing the  pattern root
