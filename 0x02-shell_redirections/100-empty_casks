@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -not -name "." -empty | wc -l
+find . -type f -not -name "." -empty | wc -l
