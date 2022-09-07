@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type df -empty | wc -l
+find . -not -name "." -empty | wc -l
