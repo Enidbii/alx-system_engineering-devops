@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# loops from 1 to 10 and at 4th display bad luck and 8th good luck
+  and best school
+
+i=0
+while [ $i -lt 10 ]
+ if [ $i -eq 4 ]
+ then
+  echo "bad luck"
+ elif [ $i -eq 8 ]
+ then
+  echo "good luck"
+ fi
+  echo "Best School"
+  (( i++))
