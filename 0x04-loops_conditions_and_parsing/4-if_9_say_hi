@@ -1,4 +1,4 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 # displays best school 10 times and hi on new line
 
 i=0
