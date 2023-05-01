@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # loops from 1 to 10 and at 4th display bad luck and 8th good luck
-  and best school
+#  and best school
 
 i=0
 while [ $i -lt 10 ]
@@ -14,5 +14,5 @@ do
  else
   echo "Best School"
  fi
-  (( i++))
+  (( i++ ))
 done
