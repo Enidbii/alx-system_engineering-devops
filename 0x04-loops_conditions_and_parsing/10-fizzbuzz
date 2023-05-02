@@ -5,8 +5,7 @@
 # display buzz when the number is multiple of 5
 #  otherwise display the number in list format
 
-i=1
-while [ $i -le 100 ]
+for i in {1..100}
 do
  if (( i % 3 == 0 && i % 5 == 0 ))
  then
@@ -20,5 +19,4 @@ do
  else
   echo "$i"
  fi
- (( i++ ))
 done
