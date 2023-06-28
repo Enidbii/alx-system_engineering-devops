@@ -1,4 +1,4 @@
-#!/usr/bin/env basuh
+#!/usr/bin/env bash
 # installs nginx web server on a new ubuntu server and redirects
 sudo apt update
 sudo apt -y install nginx
