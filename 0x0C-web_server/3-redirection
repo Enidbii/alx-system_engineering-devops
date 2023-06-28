@@ -1,9 +1,9 @@
-#!/usr/bin/env bash
+#!/usr/bin/env basuh
 # installs nginx web server on a new ubuntu server and redirects
 sudo apt update
 sudo apt -y install nginx
 sudo ufw allow 'Nginx HTTP'
-echo 'Hello World!' > /var/www/html/index.html
+echo "Hello World!" | sudo tee /var/www/html/index.html
 echo "server {
 	listen 80 default_server;
         listen [::]:80 default_server;
