@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+# configure haproxy to listen on port TCP 443 and accept SSl traffic
+
