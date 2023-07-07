@@ -5,3 +5,4 @@
 # sudo service nginx start
 sudo apt update
 sudo apt install nginx
+sudo service nginx start
