@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
-# reconfigures nginx
-# sudo rm /etc/nginx/sites-enabled/default
-# sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/
-# sudo service nginx start
-sudo apt update
-sudo apt install nginx
+# debugs nginx to listen to port 80
+sudo rm /etc/nginx/sites-enabled/default
+sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/
 sudo service nginx start
