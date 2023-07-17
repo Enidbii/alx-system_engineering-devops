@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Run software as another user
+
+sudo useradd $1
+su $1
+whoami $1
