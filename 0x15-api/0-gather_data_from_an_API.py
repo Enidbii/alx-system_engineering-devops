@@ -18,8 +18,8 @@ def get_user_list():
         if todos.get('completed') is True:
             complete_list.append(todos.get('title'))
 
-    print("Employee {} is donemwith tasks({}/{}): "
-          .format(usr.get('name'), len(complet_list), len(list_todos)))
+    print("Employee {} is done with tasks({}/{}): "
+          .format(usr.get('name'), len(complete_list), len(list_todos)))
     for todos in complete_list:
         print("\t {}".format(todos))
 
