@@ -2,6 +2,9 @@
 """ Queries Reddit API and prints titles of first 10 hotspost """
 
 
+import requests
+
+
 def top_ten(subreddit):
     """ top ten subreddit titles hotspots """
     apiUrl = "https://reddit.com/r/{}/hot.json".format(subreddit)
