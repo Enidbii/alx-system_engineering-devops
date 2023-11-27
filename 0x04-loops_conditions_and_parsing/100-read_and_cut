@@ -1,8 +1,0 @@
-#!/usr/bin/env bash
-# dispaly thge content fo file/etc/passwd
-
-FILENAME="/etc/passwd"
-while IFS=: read -r username userid homedir
-do
- echo "$username, $userid, $homedir"
-done < $FILENAME
